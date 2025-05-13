@@ -5,7 +5,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/CS-Cobre-Help/EdU-Seq_Analysis)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/CS-Cobre-Help/EdU-Seq_Analysis/total)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/CS-Cobre-Help/EdU-Seq_Analysis/latest)
-#[![DOI](https://zenodo.org/badge/939591126.svg)](https://doi.org/10.5281/zenodo.15232549)
+[![DOI](https://zenodo.org/badge/939591126.svg)](https://doi.org/10.5281/zenodo.15232549)
 
 # EdU-Seq_Analysis
 
