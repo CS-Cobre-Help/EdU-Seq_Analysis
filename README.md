@@ -82,7 +82,7 @@ The `samples.csv` file in the config folder has sample names, file paths, filena
 
 ---
 
-## 5) Explanation of Sigma Output (`{sample}_sigma_select_EU_0b.csv`)
+## 5) Explanation of Sigma Output in `{sample}_sigma_select_EU_0b.csv`
 
 - Columns: chromosome, bin, adjusted_1, adjusted_2, bin_count_1, bin_count_2, sheared_counts, sigma, sigma_mb, smoothed_sigma, trimmed_sigma, sigma_log2
     +	Chromosome: The chromosome identifier for each bin, aligned to hg38
