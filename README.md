@@ -42,7 +42,7 @@ The pipeline outputs intermediate and final products including:
 ---
 
 ## 3) Explanation of `samples.csv`
-Note. Make sure to check `sample.csv` before each run
+Note. Make sure to check the `samples.csv` before each run
 
 The `samples.csv` file in the config folder has sample names, file paths, filenames, sample type, and controls defined to test the pipeline. Replace each of those columns with your own specific sample names, file paths, and fastq files. The first column of each row is the sample name. This name will be used to name all output files. Columns 2 and 3 are the paths to the paired fastq files. Column 4 is the sample type (either "treatment" or "control"). Column 5 is the name of the corresponding Control sample for each treated sample (use "NA" if the sample is a control).
 
