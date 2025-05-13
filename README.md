@@ -1,3 +1,12 @@
+![GitHub Release](https://img.shields.io/github/v/release/CS-Cobre-Help/EdU-Seq_Analysis)
+![GitHub Release Date](https://img.shields.io/github/release-date/CS-Cobre-Help/EdU-Seq_Analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/CS-Cobre-Help/EdU-Seq_Analysis)
+![GitHub last commit](https://img.shields.io/github/last-commit/CS-Cobre-Help/EdU-Seq_Analysis)
+![GitHub contributors](https://img.shields.io/github/contributors/CS-Cobre-Help/EdU-Seq_Analysis)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/CS-Cobre-Help/EdU-Seq_Analysis/total)
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/CS-Cobre-Help/EdU-Seq_Analysis/latest)
+#[![DOI](https://zenodo.org/badge/939591126.svg)](https://doi.org/10.5281/zenodo.15232549)
+
 # EdU-Seq_Analysis
 
 ![EdU](/images/EdUseq.png)
@@ -118,7 +127,10 @@ All software and versions should be specified in `config/config.yml`.
 ## 7) Instructions to Run Pipeline on Slurm Managed HPC
 ### 7A. Clone repository
 ```
-git clone https://github.com/SansamLab/EdUSeqAnalysis.git
+wget https://github.com/CS-Cobre-Help/EdU-Seq_Analysis/releases/download/v1.0.1/EdU-Seq_Analysis-1.0.1.tar.gz
+tar -xzf EdU-Seq_Analysis-1.0.1.tar.gz
+rm EdU-Seq_Analysis-1.0.1.tar.gz
+cd EdU-Seq_Analysis-1.0.1
 ```
 ### 7B. Load modules
 ```
